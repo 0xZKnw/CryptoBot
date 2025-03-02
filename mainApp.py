@@ -20,7 +20,7 @@ async def quoi(interaction: discord.Interaction):
 
 @bot.tree.command(name="zknw", description="Returns the link to Nyfime's website")
 async def nyfime(interaction: discord.Interaction):
-    await interaction.response.send_message("https://0xZKnw.netlify.app")
+    await interaction.response.send_message("https://0xZKnw.me")
 
 @bot.tree.command(name="price", description="Get the current price of a token in USD")
 async def price(interaction: discord.Interaction, token_name: str):
