@@ -54,8 +54,8 @@ CryptoBot est un bot Discord permettant d'obtenir facilement des informations su
 Les contributions sont les bienvenues ! Forkez ce repo et proposez vos améliorations via une PR.
 
 ## 📄 Licence
-Ce projet est sous licence MIT.
+Ce projet est open source.
 
 ---
-👨‍💻 Développé par **@tonpseudo** | 🌐 [0xZKnw.me](https://0xZKnw.me)
+👨‍💻 Développé par **0xZKnw** | 🌐 [0xZKnw.me](https://0xZKnw.me)
 
