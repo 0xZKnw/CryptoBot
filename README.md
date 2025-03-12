@@ -1,6 +1,6 @@
 # 🚀 CryptoBot - Un Bot Discord pour suivre les cryptos !
 
-![CryptoBot Banner](https://cdn.pixabay.com/photo/2016/11/29/09/08/bitcoin-1866740_960_720.jpg)
+![CryptoBot Banner](https://imgs.search.brave.com/Hd9-n4E9DzK_-H0s902JnP7JdsvF8HVrb59djiTrGE4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzQ2L0JpdGNvaW4u/c3Zn)
 
 ## 📌 Description
 CryptoBot est un bot Discord permettant d'obtenir facilement des informations sur les cryptomonnaies : prix en direct, liste des exchanges, solde d'un portefeuille et bien plus encore !
