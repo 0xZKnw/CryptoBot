@@ -24,7 +24,7 @@ CryptoBot est un bot Discord permettant d'obtenir facilement des informations su
    ```bash
    pip install discord requests cryptocompare
    ```
-3. **Ajoutez votre token Discord** dans le fichier `config.py` (ou remplacez `'TOKEN'` dans `bot.run()`)
+3. **Ajoutez votre token Discord** dans le `'TOKEN'` dans `bot.run()`
 4. **Lancez le bot** :
    ```bash
    python bot.py
