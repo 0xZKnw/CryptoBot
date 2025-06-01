@@ -17,7 +17,7 @@ CryptoBot est un bot Discord permettant d'obtenir facilement des informations su
 ## 🛠️ Installation
 1. **Clonez ce repo** :
    ```bash
-   git clone https://github.com/votre-utilisateur/cryptobot.git
+   git clone https://github.com/0xZKnw/cryptobot.git
    cd cryptobot
    ```
 2. **Installez les dépendances** :
